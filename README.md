@@ -26,7 +26,7 @@ USED FOR HYPRLAND 0.55+!!!
 
 # Howto?:
 
-- No need to press `Ctrl + Alt + F4`, Open terminal is way recommended :3
+NOTE: No need to press `Ctrl + Alt + F4`, Open terminal is way recommended :3
 
 Press `Ctrl + Alt + F4` to exit GUI and go with CLI
 
