@@ -18,7 +18,7 @@ waybar
 
 brightnessctl (for laptops) 
 
-More packages is on the [packages.sh file](https://github.com/real9hsas/9hsas-hyprland-configs/blob/main/packages.sh)
+More packages is on the [packages.sh file](https://github.com/0xf19/0xf19-hyprland-configs/blob/main/packages.sh)
 
 USED FOR HYPRLAND 0.55+!!!
 
@@ -26,17 +26,25 @@ USED FOR HYPRLAND 0.55+!!!
 
 # Howto?:
 
+- No need to press `Ctrl + Alt + F4`, Open terminal is way recommended :3
+
 Press `Ctrl + Alt + F4` to exit GUI and go with CLI
+
 
 Log in on CLI
 
+
 And type these commands:
 
-`git clone https://github.com/real9hsas/9hsas-hyprland-configs`
 
-`cd 9hsas-hyprland-configs`
+`git clone https://github.com/0xf19/0xf19-hyprland-configs`
+
+
+`cd 0xf19-hyprland-configs`
+
 
 `cd .config/hypr`
+
 
 `cp hyprland.lua $HOME/.config/hypr/`
 
@@ -47,4 +55,4 @@ And type these commands:
 `cp wallpaper.png $HOME/.config/hypr/`
 
 
-Once done, type `reboot` to restart the system.
+Once done, ~~type `reboot` to restart the system~~ Theres no need to **restart the system**. just press `Ctrl + Alt + F1`.
